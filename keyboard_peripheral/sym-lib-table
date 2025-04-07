@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Atmega32u4")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/ATMEGA32U4-AU.kicad_sym")(options "")(descr ""))
+  (lib (name "USB Connectors Type C")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/UJ20-C-H-G-SMT-5-P16-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "cherry_mx_key")(type "KiCad")(uri "${KIPRJMOD}/library/cherry_mx_key.kicad_sym")(options "")(descr ""))
+)
