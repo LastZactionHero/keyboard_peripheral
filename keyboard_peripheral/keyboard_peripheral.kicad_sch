@@ -7112,7 +7112,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uf"
+		(property "Value" "22pf"
 			(at 557.53 392.4299 0)
 			(effects
 				(font
@@ -8010,7 +8010,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uf"
+		(property "Value" "22pf"
 			(at 529.59 392.4299 0)
 			(effects
 				(font
